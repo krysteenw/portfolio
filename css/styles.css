@@ -542,6 +542,8 @@ img, svg { display: block; max-width: 100%; }
 
 .cert-heading { font-size: 1.1rem; margin-bottom: 18px; }
 .cert-chips li em { color: var(--text-faint); font-style: normal; }
+.cert-chips li a { transition: color .15s ease, border-color .15s ease; }
+.cert-chips li a:hover { color: var(--accent); border-color: var(--accent); }
 
 /* ---- Footer ---- */
 
