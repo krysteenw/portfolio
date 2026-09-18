@@ -38,7 +38,7 @@ python3 -m http.server 8000
 
 ## Projects featured
 
-- **[CSOC Platform](https://github.com/krysteenw/Website-CSOC)**: Corporate Security Operations Center web app (React, Node.js, MongoDB). [Live app](https://csoc.christinegitumbi.com); this repo is a sanitized demo source (fictional company/buildings).
+- **[CSOC Platform](https://github.com/krysteenw/Website-CSOC)**: Corporate Security Operations Center web app (React, Node.js, MongoDB). [Interactive demo](https://krysteenw.github.io/Website-CSOC/); this repo uses fictional company/building data for portfolio purposes.
 - **[Moodish App](https://github.com/krysteenw/MoodishApp)**: Flutter health and wellness app. See also the [capstone artifacts](https://github.com/krysteenw/CAPSTONE-PROJECT-CS499-).
 - **[Travlr Getaways](https://github.com/krysteenw/CS-465-fullstack)**: Full-stack MEAN application.
 - **[IAM Analyst](https://github.com/krysteenw/IAM-Analyst)**: Identity and access management home-lab projects.
